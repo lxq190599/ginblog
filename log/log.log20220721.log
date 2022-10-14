@@ -1,7 +1,0 @@
-    time="2022-07-21 21:42:04" level=info Agent=PostmanRuntime/7.29.2 DataSize=1802 HostName=DESKTOP-L8CR1N3 Ip=127.0.0.1 Method=GET Path=/api/v1/users code=200 spendTime="12 ms"
-time="2022-07-21 21:45:59" level=info Agent=PostmanRuntime/7.29.2 DataSize=1802 HostName=DESKTOP-L8CR1N3 Ip=127.0.0.1 Method=GET Path=/api/v1/users code=200 spendTime="14 ms"
-time="2022-07-21 22:43:16" level=info Agent=PostmanRuntime/7.29.2 DataSize=66 HostName=DESKTOP-L8CR1N3 Ip=127.0.0.1 Method=POST Path=/api/v1/user/add code=200 spendTime="1 ms"
-time="2022-07-21 22:43:41" level=info Agent=PostmanRuntime/7.29.2 DataSize=66 HostName=DESKTOP-L8CR1N3 Ip=127.0.0.1 Method=POST Path=/api/v1/user/add code=200 spendTime="0 ms"
-time="2022-07-21 22:43:47" level=info Agent=PostmanRuntime/7.29.2 DataSize=66 HostName=DESKTOP-L8CR1N3 Ip=127.0.0.1 Method=POST Path=/api/v1/user/add code=200 spendTime="0 ms"
-time="2022-07-21 22:44:05" level=info Agent=PostmanRuntime/7.29.2 DataSize=46 HostName=DESKTOP-L8CR1N3 Ip=127.0.0.1 Method=POST Path=/api/v1/user/add code=200 spendTime="0 ms"
-time="2022-07-21 22:44:13" level=info Agent=PostmanRuntime/7.29.2 DataSize=53 HostName=DESKTOP-L8CR1N3 Ip=127.0.0.1 Method=POST Path=/api/v1/user/add code=200 spendTime="0 ms"
